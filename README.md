@@ -15,7 +15,7 @@
 
 - How to reach me **sadianoreen602@gmail.com**
 
--  **Portfolio:** sadianoreen.vercel.app
+-  **Portfolio:** https://sadianoreen.vercel.app/
 
 - Fun fact **The 1% who calls 3am a morning**
 
