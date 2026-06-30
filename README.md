@@ -1,4 +1,4 @@
-![logo](https://github.com/Sadia446/Sadia446/blob/main/banner-1.png)
+![logo](https://github.com/Sadia446/Sadia446/blob/main/bannerimage.jpeg)
 <h1 align="center">Hi, I'm Sadia Noreen</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
