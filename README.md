@@ -8,15 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia446&label=Profile%20views&color=0e75b6&style=flat" alt="sadia446" /> </p>
 
 - Building **Deep Learning projects** 
-
 - Learning through **Machine Learning Specialization**
-
 - Ask me about **Python, Machine Learning**
-
 - How to reach me **sadianoreen602@gmail.com**
-
 -  **Portfolio:** https://sadianoreen.vercel.app/
-
 - Fun fact **The 1% who calls 3am a morning**
 
 <h3 align="left">Connect with me:</h3>
