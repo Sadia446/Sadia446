@@ -6,6 +6,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia446&label=Profile%20views&color=0e75b6&style=flat" alt="sadia446" /> </p>
+<h3>About Me</h3>
+
+Software Engineering graduate with proven experience building and deploying production-grade AI systems and full-stack web applications. Lead  **MindKey**, a BCI system enabling paralyzed patients to communicate. Experienced in building Generative AI solutions, including AI-Mentor Chatbot and Document-GPT. Experienced across the full lifecycle: from deep learning model architecture to scalable web deployment. 
+**Currently working with :** RAG · Vector Databases · LangChain · LLMs · React · FastAPI · OpenAI APIs
 
 - Building **Deep Learning projects** 
 - Learning through **Machine Learning Specialization**
